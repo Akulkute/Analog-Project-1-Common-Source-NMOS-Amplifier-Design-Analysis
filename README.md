@@ -62,6 +62,6 @@ $$
 
 **Note on The Miller Effect:** In a physical layout, if this $1\text{ pF}$ capacitance were dominated by the Gate-to-Drain overlap ($C_{gd}$), the Miller Effect would multiply its apparent size by the gain of the amplifier ($1 + A_v$). This would cause the bandwidth to crash even further, demonstrating why $C_{gd}$ is often the primary bottleneck in high-gain analog stages.
 
-![AC Bode Plot - 15.88 MHz Cutoff](image_4279de.jpg)
+![AC Bode Plot - 15.88 MHz Cutoff](b3524b86-4a03-4337-b4f1-767e80477586.jpg)
 
 *Simulated in LTspice.*
