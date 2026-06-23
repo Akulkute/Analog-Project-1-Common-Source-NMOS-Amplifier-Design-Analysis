@@ -26,7 +26,7 @@ The first step was to establish a stable DC bias to ensure the NMOS device was o
 
 * **Silicon Reality Check:** Ensured the Bulk/Body terminal was tied to the Source, preventing the forward-biasing of the parasitic PN body diode which would cause massive substrate leakage.
 
-![DC Operating Point Schematic](image_1931cb.png)
+![DC Operating Point Schematic](af087a6f-5ce0-42c6-9b2a-36120144c0f1.jpg)
 
 ## 3. Milestone 2: Transient Analysis & Voltage Gain (`.tran`)
 
