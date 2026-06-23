@@ -65,3 +65,5 @@ $$
 ![AC Bode Plot - 15.88 MHz Cutoff](b3524b86-4a03-4337-b4f1-767e80477586.jpg)
 
 *Simulated in LTspice.*
+
+# Files are provided please try yourself on LTspice.
