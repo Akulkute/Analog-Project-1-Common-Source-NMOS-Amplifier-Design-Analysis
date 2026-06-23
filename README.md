@@ -42,7 +42,7 @@ A small-signal $1\text{ kHz}$ sine wave with a $20\text{ mV}$ peak-to-peak ampli
 
 2. **Phase Inversion:** The output waveform exhibits a perfect 180° phase shift relative to the input. Physically, as $V_{GS}$ increases, the transistor's transconductance ($g_m$) pulls more current through $R_D$, increasing the voltage drop across the resistor and forcing the drain node voltage *down*.
 
-![Transient Waveforms](image_418925.png)
+![Transient Waveforms](Screenshot 2026-06-24 001207.png)
 
 ## 4. Milestone 3: AC Analysis & Frequency Response (`.ac`)
 
